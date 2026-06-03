@@ -29,3 +29,4 @@
 - fix: link the usage section
 - fix: add a note about the defaults
 - docs: fix a small wording issue
+- docs: add a note about the defaults
